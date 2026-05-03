@@ -1,7 +1,7 @@
 # Sistema de Trading Sistemático con Señales de ML
 ### Proyecto Final — Trading Algorítmico | UAI Magíster Finanzas | 2026
 
-> **Autores:** Sebastián Moscoso Guajardo · Joaquín Ocare  
+> **Autores:** Sebastián Moscoso Guajardo · Joaquín Ocare · Sofía Nuñez 
 > **Activo:** SPY (S&P 500 ETF) | **Horizonte:** 5 días | **Período OOS:** Abr 2024 – Abr 2026
 
 ---
